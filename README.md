@@ -63,6 +63,4 @@ I’m looking to collaborate on:
 
 ---
 
-## 😄 Fun Fact
-I enjoy translating complex technical concepts into accessible and engaging content for both technical and non-technical audiences. When not coding, you’ll find me exploring new tools or brainstorming innovative ideas!
 

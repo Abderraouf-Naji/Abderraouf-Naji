@@ -24,27 +24,22 @@ Here are some of the projects I’ve worked on:
 ### **[Parkinson-Flutter](https://github.com/Abderraouf-Naji/Parkinson-Flutter)**
 - **Description:** Mobile app for diagnosing and managing Parkinson's Disease, using handwriting samples analyzed by machine learning models.
 - **Technologies:** Flutter, TensorFlow/Keras, Google Colab.
-- **Status:** Updated 10 hours ago.
 
 ### **[Laravel-Project](https://github.com/Abderraouf-Naji/laravel-project)**
 - **Description:** Web application for task and employee management. Features include user management, task assignment, progress tracking, and interactive Chart.js visualizations. Includes dark mode.
 - **Technologies:** Laravel, Blade, Chart.js.
-- **Status:** Updated yesterday.
 
 ### **[Pizzeria](https://github.com/Abderraouf-Naji/Pizzeria)**
 - **Description:** Web app for managing pizzeria orders, allowing customers to order pizzas and drinks, and administrators to track and manage orders.
 - **Technologies:** Java, JSP, Servlets.
-- **Status:** Updated last week.
 
 ### **[Fog-Computing](https://github.com/Abderraouf-Naji/Fog-Computing)**
 - **Description:** Distributed system for calculating large factorials using Fog Computing. Tasks are distributed across multiple nodes for optimized performance.
 - **Technologies:** HTML, server-side programming.
-- **Status:** Updated 2 weeks ago.
 
 ### **[Management-Employee-PFE](https://github.com/Abderraouf-Naji/management-employee-pfe)**
 - **Description:** DevOps project containerizing applications with Docker, automating CI/CD pipelines using Jenkins, and deploying on Kubernetes. Integrated with ArgoCD, Prometheus, Grafana, and more.
 - **Technologies:** Docker, Kubernetes, Jenkins, ArgoCD, Prometheus, Grafana.
-- **Status:** Updated recently.
 
 ---
 
